@@ -1,18 +1,15 @@
 C5C6工具网([c5c6.com](https://www.c5c6.com/))提供基于web页的在线工具软件，如：生活服务工具、金融理财工具、教育教学工具、
 数学计算工具、站长工具、及各类在线工具等等。
 
+[日期计算器-在线天数计算工具](https://riqi.c5c6.com/):(https://riqi.c5c6.com/
 
-日期计算器-在线天数计算工具https://riqi.c5c6.com/
+[BMI计算器-在线BMI（身体质量指数）计算器](https://bmi.c5c6.com/):https://bmi.c5c6.com/
 
-[日期计算器-在线天数计算工具](https://riqi.c5c6.com/)
+[农历查询_全民农历日历_农历2025年日历表](https://wannianli.c5c6.com/):https://wannianli.c5c6.com/
 
-[BMI计算器-在线BMI（身体质量指数）计算器](https://bmi.c5c6.com/)
+[时辰对照表-十二时辰与时间对照表](https://shichen.c5c6.com/):https://shichen.c5c6.com/
 
-[农历查询_全民农历日历_农历2025年日历表](https://wannianli.c5c6.com/)
-
-[时辰对照表-十二时辰与时间对照表](https://shichen.c5c6.com/)
-
-[秒表计时器-在线秒表-在线计时器](https://miaobiao.c5c6.com/)
+[秒表计时器-在线秒表-在线计时器](https://miaobiao.c5c6.com/):https://miaobiao.c5c6.com/
 
 [倒计时器-在线倒计时器-时间倒计时器](https://daojishi.c5c6.com/)
 
